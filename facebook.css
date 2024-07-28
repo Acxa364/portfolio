@@ -1,0 +1,75 @@
+body{
+    height: 100%;
+    background-color: rgb(243, 251, 254);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tgb{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px; 
+}
+.vbn{
+    background-color: white;
+    width: 300px;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 0px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    display: inline-block;
+    margin-right: 100px;
+}
+.button1{
+    width: 260px;
+    height: 30px;
+    border-radius: 4px;
+    border-width: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.password{
+    width: 260px;
+    height: 30px;
+    border-radius: 4px;
+    border-width: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.login{
+    width: 280px;
+    height: 40px;
+    border-radius: 4px;
+    border-width: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(0, 137, 222);
+    color: white;
+}
+a{
+    text-decoration: none;
+    color:rgb(0, 137, 222) ;
+}
+.create{
+    width: 180px;
+    height: 40px;
+    border-radius: 4px;
+    border-width: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(109, 236, 102);
+    color: white;
+   
+}
+.logo{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+.logo p{
+   font-size: x-large;
+}

@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.main{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, .6) 60%, rgba(0, 0, 0, 1.8) 100%),url(https://raw.githubusercontent.com/thatanjan/netflix-clone-yt/youtube/media//banner.jpg);
+    color: white;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.div1{
+    padding-top: 200px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.p1{
+    padding-top: 10px;
+    font-size: 28px;
+}
+.p2{
+    padding-top: 25px;
+    font-size: 23px;
+}
+img{
+    width: 180px;
+    height: 100px;
+    padding-left: 160px;
+    padding-bottom: 30px;
+}
+.box1 input{
+    height: 50px;
+    width: 350px;
+    color: white;
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(0, 0, 0, 0.352);
+    border-radius: 4px;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(199, 199, 199, 0.893);
+}
+.box1 button{
+    height: 52px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(226, 12, 12);
+    border-radius:4px;
+    border-style: none;
+}
+.box1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.fa-chevron-right{
+   padding-left: 5px;
+   font-size: 20px;
+   font-weight: lighter;
+}
+.dropdown{
+    /* margin-left: 1113px;
+    margin-top: -100px; */
+    color: white;
+    background-color: rgba(0, 0, 0, 0.352);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(199, 199, 199, 0.893);
+    display: flex;
+    width: 107px;
+    height: 26px;
+    padding-right: 14px;
+    padding-top: 3px;
+}
+.lang{
+    width: 20px;
+    height: 20px;
+    margin-left: -140px;
+}
+#language{
+    border-style: none;
+    background: none;
+    color: white;
+}
+.signin{
+    margin-left: 20px;
+    width: 80px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(226, 12, 12);
+    border-radius: 4px;
+    border-style: none;
+    padding-bottom: 3px;
+}
+.right{
+    display: flex;
+    margin-top: -102px;
+    margin-left: 1120px;
+}
+
+.second{
+    width: 100%;
+    height: 575px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.second-img img{
+    width: 600px;
+    height: 400px;
+    padding-top: 50px;
+}
+.second-text{
+    width: 500px;
+    margin-top: 200px;
+}
+.second p{
+    font-size: 20px !important;
+}
+
+.third{
+    width: 100%;
+    height: 575px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.third-img img{
+    width: 500px;
+    height: 400px;
+    padding-top: 50px;
+    margin-left: -50px;
+}
+.third-text{
+    width: 600px;
+    margin-top: 200px;
+}
+.third-text{
+    font-size: 20px !important;
+}
+.qn{
+    background-color: black;
+    color: white;
+}
+
+
+
+
